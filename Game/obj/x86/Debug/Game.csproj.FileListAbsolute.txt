@@ -1,0 +1,15 @@
+D:\Game\Game\bin\Debug\Game.exe
+D:\Game\Game\bin\Debug\Game.pdb
+D:\Game\Game\obj\x86\Debug\Game.CActor.resources
+D:\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+D:\Game\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+D:\Game\Game\obj\x86\Debug\Game.exe
+D:\Game\Game\obj\x86\Debug\Game.pdb
+D:\Msa\Year 2\semester 2\Multimedia\Game\Game\obj\x86\Debug\Game.exe
+D:\Msa\Year 2\semester 2\Multimedia\Game\Game\obj\x86\Debug\Game.pdb
+D:\Msa\Year 2\semester 2\Multimedia\Game\Game\bin\Debug\Game.exe
+D:\Msa\Year 2\semester 2\Multimedia\Game\Game\bin\Debug\Game.pdb
+D:\Msa\Year 2\semester 2\Multimedia\Game\Game\obj\x86\Debug\Game.Properties.Resources.resources
+D:\Msa\Year 2\semester 2\Multimedia\Game\Game\obj\x86\Debug\Game.csproj.GenerateResource.Cache
+D:\Msa\Year 2\semester 2\Multimedia\Game\Game\obj\x86\Debug\Game.Back.resources
+D:\Msa\Year 2\semester 2\Multimedia\Game\Game\obj\x86\Debug\Game.csprojAssemblyReference.cache
